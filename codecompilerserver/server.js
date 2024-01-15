@@ -43,7 +43,7 @@ const options = {
   url: 'https://onecompiler-apis.p.rapidapi.com/api/v1/run',
   headers: {
     'content-type': 'application/json',
-    'X-RapidAPI-Key': 'd3b7582235mshd063d188ae19bfbp1a361bjsn96fa6112ffcd',
+    'X-RapidAPI-Key': 'use-your-api-key',
     'X-RapidAPI-Host': 'onecompiler-apis.p.rapidapi.com'
   },
   data: {
